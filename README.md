@@ -1,8 +1,8 @@
 bem vindo
 
-vinicius 
+**vinicius** 
 
-estou estudando na[alura](https://www.alura.com.br/)
+estou estudando na [alura](https://www.alura.com.br/)
 
 4 anos de curso profissiolnalizante em detetização de pragas
 
@@ -19,3 +19,8 @@ estou estudando na[alura](https://www.alura.com.br/)
 ex dono de boate que tive em 1994, chamava scorpions
 
 3 anos em tornearia
+
+
+![](https://media.tenor.com/FMT9ESOj3rgAAAAM/camel-hump.gif)
+
+![](https://media.tenor.com/GzcI4O6kRiwAAAAM/crying-boy.gif)
